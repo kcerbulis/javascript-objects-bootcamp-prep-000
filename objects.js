@@ -23,3 +23,9 @@ var meals = {
 }
 
 meals['second breakfast'] = 'bagles'
+
+var sweetMeal = 'dessert'
+
+meals[sweetMeal] = 'cake'
+
+ob
