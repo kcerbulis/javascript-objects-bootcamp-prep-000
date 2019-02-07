@@ -21,3 +21,5 @@ var meals = {
   lunch:'burrito',
   dinner: 'steak'
 }
+
+meals['second breakfast'] = 'bagles'
