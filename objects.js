@@ -6,4 +6,5 @@ var meals = { brekfast: "Oatmeal"}
 
 var meals = new Object({brekfast: 'Oatmeal'})
 
-cont firstMeal = 'brekfast'
+var meals = { [firstMeal]: 'Oatmeal'}
+
