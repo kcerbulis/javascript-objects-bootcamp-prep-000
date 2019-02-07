@@ -3,3 +3,8 @@ var playlist = {
   savage: 'Bank Account',
   Skepta: 'It Aint Safe'
 }
+
+function updatePlaylist(playlist, name, title){
+  playlist[name] = title
+  return playlist
+}
